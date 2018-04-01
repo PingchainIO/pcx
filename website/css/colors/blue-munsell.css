@@ -1,0 +1,93 @@
+/* --------------------------------------
+=========================================
+COLOR : BLUE MUNSELL
+
+MAIN COLOR CODE: #00affe
+
+DEEP COLOR CODE: #0080ba
+=========================================
+----------------------------------------- */
+
+.color-overlay {
+    background: rgba(0, 175, 254, 1);
+}
+
+.standard-button {
+    background: #EC7B90;
+}
+
+.standard-button2 {
+    background: #00affe;
+}
+
+.standard-button2:hover {
+    background: #0080ba;
+}
+
+.btn-primary:focus, 
+.btn-primary:active, 
+.btn-primary.active, 
+.open .dropdown-toggle.btn-primary {
+    background: #0080ba;
+    border-color: inherit;
+}
+
+.colored-line,
+.colored-line-left {
+    background: #EC7B90;
+}
+
+.main-color {
+    color: #00affe;
+}
+
+.color-bg {
+	background: #00affe;
+	color: #FFFFFF;
+}
+
+.features .feature:hover .icon-container .icon {
+    background: #00affe;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    -webkit-box-shadow: 0px 0px 0px 2px #00affe;
+            box-shadow: 0px 0px 0px 2px #00affe;
+}
+
+.features .feature .icon-container .icon {
+    border: 1px solid #00affe;
+    color: #00affe;
+}
+
+.feature-list li i {
+    color: #00affe;
+}
+
+.services .single-service .service-icon,
+.services .single-service h3 {
+    color: #00affe;
+}
+
+.screenshots .owl-theme .owl-controls .owl-page span {
+    background: #00affe;
+}
+
+footer .contact-button {
+    border: 2px solid #00affe;
+    color: #00affe;
+}
+
+footer .contact-button:hover {
+    background: #00affe;
+}
+
+footer .contact-box .expanded-contact-form .input-box:active,
+footer .contact-box .expanded-contact-form .textarea-box:active,
+footer .contact-box .expanded-contact-form .input-box:focus,
+footer .contact-box .expanded-contact-form .textarea-box:focus {
+    border: 1px solid #00affe;
+}
+
+footer .social-icons li a:hover {
+    color: #00affe;
+}
